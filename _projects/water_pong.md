@@ -18,7 +18,7 @@ The computer vision system implemented in this project encompasses a full pipeli
 
 A comprehensive lookup table was developed to manage the configurations of the robotic arm's movements for precise targeting and ball-throwing accuracy. This table contains detailed motor configurations for each target, which are dynamically updated in real-time based on the game's progress. The lookup table algorithmically determines the angle and delay for each throw using interpolation between predefined settings. Moreover, the system incorporates a feedback loop that adjusts the motor delay incrementally if the initial throw does not hit the target, thereby refining the robot's accuracy over successive attempts.
 
-For more details, check out the project [report](https://clem2507.github.io/assets/pdf/WaterPongReport.pdf){:target="_blank"} and the code in our [repository](https://github.com/M1v1savva/juice-pong){:target="_blank"}.
+For more details, check out the project [report](https://clementdetry.github.io/assets/pdf/WaterPongReport.pdf){:target="_blank"} and the code in our [repository](https://github.com/M1v1savva/juice-pong){:target="_blank"}.
 
 ### Demo
 

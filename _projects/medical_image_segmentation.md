@@ -54,4 +54,4 @@ Through a 5-fold cross-validation analysis on the heart and lung datasets, we fo
 
 Transformers-based models did not perform as well as convolution-based ones. It is assumed that preprocessing and aggressive data augmentation may have a crucial role in the performance reported in existing literature, and further studies incorporating these factors could help bridge the gap between our study and the existing body of work.
 
-For more details, check out the project [report](https://clem2507.github.io/assets/pdf/MedicalSegmentationReport.pdf){:target="_blank"} and the code in our [repository](https://github.com/ArthurBoschet/medical_segmentation){:target="_blank"}.
+For more details, check out the project [report](https://clementdetry.github.io/assets/pdf/MedicalSegmentationReport.pdf){:target="_blank"} and the code in our [repository](https://github.com/ArthurBoschet/medical_segmentation){:target="_blank"}.
